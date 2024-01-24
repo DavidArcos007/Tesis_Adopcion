@@ -1,8 +1,8 @@
-Política de Privacidad de [Kodah App]
+Política de Privacidad de Kodah App
 
-Fecha de última actualización: [24/01/2024]
+Fecha de última actualización: 24/01/2024
 
-Bienvenido/a a [Kodah App], la aplicación de adopción de mascotas de [Kodah]. Tu privacidad es importante para nosotros, y esta política de privacidad explica cómo recopilamos, usamos, compartimos y protegemos tu información personal.
+Bienvenido/a a Kodah App, la aplicación de adopción de mascotas de Kodah. Tu privacidad es importante para nosotros, y esta política de privacidad explica cómo recopilamos, usamos, compartimos y protegemos tu información personal.
 
 1. Información que Recopilamos:
 
@@ -31,6 +31,7 @@ Compartimos información con colaboradores que nos ayudan en la gestión de la a
 3.2 Requisitos Legales:
 
 Podemos divulgar información si así lo exige la ley o en respuesta a una solicitud legal.
+
 4. Seguridad:
 
 Implementamos medidas de seguridad para proteger tu información contra el acceso no autorizado o la alteración.
@@ -45,6 +46,6 @@ Nos reservamos el derecho de actualizar esta política en cualquier momento. Te 
 
 7. Contacto:
 
-Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en davidarcos0799@gmail.com].
+Si tienes preguntas sobre esta política de privacidad, puedes contactarnos en davidarcos0799@gmail.com
 
-Gracias por confiar en [Kodah App] para facilitar el proceso de adopción de mascotas.
+Gracias por confiar en Kodah App para facilitar el proceso de adopción de mascotas.
